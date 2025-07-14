@@ -4,7 +4,7 @@
 Welcome to the Complete Ethical Hacking Course repository. This comprehensive course covers a wide range of topics related to ethical hacking, including lab setup, Kali Linux, anonymity online, network pentesting, social engineering, bug bounty, Python for ethical hacking, and much more.
 
 ## Course Topics
-
+https://masterhack.netlify.app/
 - Hacking Lab Setup
 - Kali Linux 101
 - Anonymity Online
@@ -60,6 +60,7 @@ This section delves into social media hacking using private tools and provides i
 Explore CompTIA Security + CEH cracked courses and enhance your knowledge in the field of ethical hacking.
 #
 # [Click here](https://wa.me/916235369260)
+https://masterhack.netlify.app/
 ### WhatsApp Hacking
 
 Learn about methods for ethical hacking of WhatsApp accounts.
