@@ -1,4 +1,4 @@
-# [Click here](https://wa.me/918660264556)
+# [Click here](https://wa.me/919074882017)
 # The Complete Ethical Hacking Course
 
 Welcome to the Complete Ethical Hacking Course repository. This comprehensive course covers a wide range of topics related to ethical hacking, including lab setup, Kali Linux, anonymity online, network pentesting, social engineering, bug bounty, Python for ethical hacking, and much more.
@@ -59,7 +59,7 @@ This section delves into social media hacking using private tools and provides i
 
 Explore CompTIA Security + CEH cracked courses and enhance your knowledge in the field of ethical hacking.
 #
-# [Click here](https://wa.me/918660264556)
+# [Click here](https://wa.me/919074882017)
 https://masterhack.netlify.app/
 ### WhatsApp Hacking
 
@@ -95,9 +95,9 @@ This course provides comprehensive information about ethical hacking and various
 
 For more details and resources, please refer to the individual folders and files within this repository.
 #
-# [Join Now](https://wa.me/918660264556)
+# [Join Now](https://wa.me/919074882017)
 #
 <img src="https://github.com/Hacker-nk/online-hacking/blob/main/1695891789783.jpg" alt="online-hacking">
 Feel free to contribute and share your knowledge with the community!
 
-[Join Now](https://wa.me/918660264556)
+[Join Now](https://wa.me/919074882017)
