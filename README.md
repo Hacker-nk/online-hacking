@@ -4,7 +4,7 @@
 Welcome to the Complete Ethical Hacking Course repository. This comprehensive course covers a wide range of topics related to ethical hacking, including lab setup, Kali Linux, anonymity online, network pentesting, social engineering, bug bounty, Python for ethical hacking, and much more.
 
 ## Course Topics
-https://zerodayinstitute.netlify.app
+https://masterhack.netlify.app
 - Hacking Lab Setup
 - Kali Linux 101
 - Anonymity Online
